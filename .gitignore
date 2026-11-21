@@ -1,0 +1,6 @@
+build*/
+.vs/
+*.user
+vcpkg_installed/
+*.db
+demo_out.txt
